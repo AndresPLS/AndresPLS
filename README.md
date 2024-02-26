@@ -11,6 +11,6 @@ Estoy especializado en comunicación multimedia con una sólida experiencia en 
 <br />
 
           
-📫 Escríbeme en andrespolo13@gmail.com 
+📫 Escríbeme a andrespolo13@gmail.com 
 
 🖥 Visita mi porfolio en http://andrespolo.com/
