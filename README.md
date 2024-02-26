@@ -1,5 +1,7 @@
 ### 👋 Hola, soy Desarrollador Full Stack y diseñador multimedia.
 
+<br />
+
 Estoy especializado en comunicación multimedia con una sólida experiencia en entornos digitales. En constante formación como desarrollador de aplicaciones estoy centrando mi mejora como Front-end.
 
 - 👀 Siempre me ha gustado explorar y enfrentarme a nuevos procesos de aprendizaje.
