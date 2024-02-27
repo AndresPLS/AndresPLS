@@ -1,4 +1,4 @@
-### 👋 Hola, soy Desarrollador Full Stack y diseñador multimedia.
+### 👋 Hola, soy Desarrollador Full Stack y Diseñador Multimedia.
 
 <br />
 
