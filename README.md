@@ -2,7 +2,7 @@
 
 <br />
 
-Estoy especializado en comunicación multimedia con una sólida experiencia en entornos digitales. En constante formación como desarrollador de aplicaciones estoy centrando mi mejora como Front-end.
+Estoy especializado en comunicación multimedia con una sólida experiencia en entornos digitales. En constante formación como desarrollador de aplicaciones me estoy centrando en mejorar como Front-end.
 
 - 👀 Siempre me ha gustado explorar y enfrentarme a nuevos procesos de aprendizaje.
 - 🌱 Actualmente estoy aprendiendo React y JavaScript avanzado.
